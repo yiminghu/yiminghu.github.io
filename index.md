@@ -9,7 +9,7 @@ I currently work as a quantitative researcher for Voleon Group, where I develop 
 
 ## Publication
 
-[google scholar](https://scholar.google.com/citations?user=1hv3ZNoAAAAJ&hl=en)
+[google scholar](https://scholar.google.com/citations?user=ncUZGu0AAAAJ&hl=en)
 
 [14] **Hu, Y.**, Zhao, Z., Lu, Q., Zhao, H. (2020+) A cross-trait genetic risk prediction framework leveraging biobank-scale GWAS summary statistics. *In preparation* 
 
