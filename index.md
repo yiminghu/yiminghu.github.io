@@ -1,6 +1,8 @@
 ## About
 I currently work as a quantitative researcher for Voleon Group, where I develop machine learning models to predict stock movement and optimization framework for portfolio construction. I got my PhD in Biostatistics form Yale University in 2018 and my research focuses on building genetic risk prediction models leveraging diverse types of data. I enjoy working with data and making real-world impact using statistics and machine learning.
 
+[cv](./Yiming_Hu_CV.pdf)
+
 ## Experience & Education
 
 * 2018 - present, Member of Research Staff, Voleon Group, Berkeley CA
