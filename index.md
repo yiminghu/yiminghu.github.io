@@ -5,7 +5,7 @@ I currently work as a quantitative researcher for Voleon Group, where I develop 
 
 ## Experience & Education
 
-* 2018 - present, Member of Research Staff, Voleon Group, Berkeley CA
+* 2018 - present, Senior Member of Research Staff, Voleon Group, Berkeley CA
 * 2013 - 2018,    PhD in Biostatistics, Yale University, CT
 * 2009 - 2013,    B.Sc in Mathematics and Statistics, Peking University, China
 
