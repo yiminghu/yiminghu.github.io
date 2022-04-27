@@ -48,9 +48,13 @@ statistical framework for cross-tissue transcriptome-wide association analysis. 
 
 02/2018 Invited talk, Department of Statistical Science, University of Toronto, ON
 
-01/2018 Invited talk, Department of Statistics, University of Illinois at Urbana-Champaign, IL 01/2018 Invited talk, Division of Human Genetics, Department of Psychiatry, Yale University, CT 
+01/2018 Invited talk, Department of Statistics, University of Illinois at Urbana-Champaign, IL 
 
-10/2017 Platform presentation, American Society of Human Genetics Annual Meeting, Orlando, FL 08/2017 Oral presentation, Joint Statistical Meetings, Baltimore, MD
+01/2018 Invited talk, Division of Human Genetics, Department of Psychiatry, Yale University, CT 
+
+10/2017 Platform presentation, American Society of Human Genetics Annual Meeting, Orlando, FL 
+
+08/2017 Oral presentation, Joint Statistical Meetings, Baltimore, MD
 
 08/2016 Oral presentation, Joint Statistical Meetings, Chicago, IL
 
